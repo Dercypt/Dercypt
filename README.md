@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=450&size=22&duration=2500&pause=1000&color=2F80ED&center=true&width=1000&lines=Hi%2C+I'm+Zyndrex+%F0%9F%91%8B;CS+Student+%40+UC;Based+in+Baguio%2C+Philippines" alt="Typing SVG" /></a>
+你好
